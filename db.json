@@ -2,14 +2,13 @@
     "users": [
         {
             "id": 1,
-            "username": "masai",
+            "fullname": "masai",
             "email": "masai@gmail.com",
-            "password": "masai",
-            "type": "user"
+            "password": "masai"
         },
         {
             "id": 2,
-            "username": "admin",
+            "fullname": "admin",
             "email": "admin@gmail.com",
             "password": "admin"
         }
